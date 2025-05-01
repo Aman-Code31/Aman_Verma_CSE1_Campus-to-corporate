@@ -1,9 +1,7 @@
 # Aman_Verma_CSE1_Campus-to-corporate
-<br>
-# Project Title : Campus to Corporate
-<br>
-# Team Members : Aman(2401010141) , Aryan(2401010005) , Guarav(2401010009),Bhavik(2401010039)<br>
-# Short Description of Project:
+<h1>Project Title : Campus to Corporate</h1>
+<h2>Team Members : Aman(2401010141) , Aryan(2401010005) , Guarav(2401010009),Bhavik(2401010039)</h2><br>
+<h3>Project Overview</h3>
 <p>The Campus to Corporate Visit Program closes the gap between academic education and professional prowess, enabling students to smoothly make the transition from academia to the corporate world. The program provides interactive workshops, industry-sponsored seminars, mentorship sessions, and experiential corporate visits that train participants in real-world skills, office etiquette, and insights into business acumen in practice.</p>
 
 # Techonlogies used in this projects are as followings :

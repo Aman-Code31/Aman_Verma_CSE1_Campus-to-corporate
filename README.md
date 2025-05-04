@@ -11,11 +11,3 @@ Database--> MongoDB (NoSQL)<br>
 Authentication	JWT (JSON Web Tokens)<br>
 Cloud Hosting	Firebase / AWS (for deployment & storage)
 # Execute the Project
-Phase 1: Core Activities
-Workshops: Deliver sessions on resume building, interview skills, and workplace etiquette.
-Corporate Visits: Organize tours, shadowing opportunities, and Q&A sessions with professionals.
-Mentorship: Pair students with industry experts for personalized guidance.<br>
-
-Phase 2: Hands-On Experience
-Assign live projects or case studies from partner companies.
-Host networking events or mock interviews.

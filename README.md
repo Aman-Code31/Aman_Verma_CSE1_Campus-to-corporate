@@ -23,3 +23,7 @@ Cloud Hosting	Firebase / AWS (for deployment & storage)
 Our Website C2C is designed for those who wants Industrial or Company Visit for Academic , Business Related or for Startups or according to the User.The Campus to Corporate project is an innovative web-based platform designed to bridge the gap between academic life and the professional corporate world.This platform offers immersive virtual tours, industry-specific learning modules, career development tools, and interactive engagement features. By simulating real industrial visit experiences online, it addresses the limitations of traditional industrial visits and enhances industry exposure for students.
 
 # Execute the Project
+1. Clone the Repository(copy url and clone it by using Git Bash command line)
+2. Make sure Node.js is installed on your system.(As it whole system for it)
+3. Inside the project folder, install all required dependencies using npm.(npm install)
+4. To run the app locally in development mode.(npm run dev)
